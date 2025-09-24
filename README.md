@@ -1,4 +1,4 @@
-Perfect 🚀 I’ll give you a **minimal but complete Neovim config** that sets it up as a Python IDE with LSP, Treesitter, autocompletion, and debugging.
+To set Python IDE with LSP, Treesitter, autocompletion, and debugging.
 
 Just copy this into your `~/.config/nvim/init.lua`.
 
@@ -159,4 +159,3 @@ vim.keymap.set("n", "<leader>r", ":!python3 %<CR>", { desc = "Run Python File" }
 
 ---
 
-👉 Do you also want me to give you a **Python virtualenv + Mason auto-link** setup, so Neovim always uses the correct project venv automatically? That avoids version mismatch issues.
